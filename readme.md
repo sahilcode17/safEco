@@ -5,7 +5,7 @@ Using crime related data, I have come up with an app that suggests alternative r
 Information about not only the time duaration and distance of travel, but also a certain 'Danger Index' of each route.
 'Danger Index' is evaulted by applying Unsupersvised Machine Learning on crime data/records of the past.
 
-### Want to Try Out : [DigitalProduct](https://digital-product.netlify.app/).
+### Want to Try Out : [SafEco](https://safeco.herokuapp.com/).
 
 ---
 
